@@ -1,2 +1,4 @@
 package main
-func main() {}
+func main() {
+	this is awesome
+}
